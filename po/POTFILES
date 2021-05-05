@@ -1,0 +1,7 @@
+data/com.knuxbbs.ValaSample.desktop.in
+data/com.knuxbbs.ValaSample.appdata.xml.in
+data/com.knuxbbs.ValaSample.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+
